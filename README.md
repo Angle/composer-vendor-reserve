@@ -1,0 +1,1 @@
+Reserving the composer name `anglemx` since `angle` was already taken 😪.

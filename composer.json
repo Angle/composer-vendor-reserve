@@ -1,0 +1,13 @@
+{
+  "name": "anglemx/composer-vendor-reserve",
+  "description": "Reserving vendor name anglemx",
+  "authors": [
+    {
+      "name": "Angle Consulting",
+      "email": "email@angle.mx",
+      "homepage": "http://www.angle.mx",
+      "role": "owner"
+    }
+  ],
+  "require": {}
+}
